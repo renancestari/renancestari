@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Renan</h1>
 <h3 align="center">Desenvolvedor de Software</h3>
 
-- 💬 Atuando como Estagiário em Desenvolvimento de Software.
+- 💬 Atuando como Trainee em Desenvolvimento de Software.
 - ⚡ Cursando Tecnologia em Análise e Desenvolvimento de Sistemas na USF - Campinas, Quinto semestre.
 
 <h3 align="left">Contato:</h3>
